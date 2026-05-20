@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100%" height="600" alt="Ancera102 - Гражданская Оборона и Безопасность" src="https://github.com/user-attachments/assets/e696d4e4-e839-4e80-bb6f-1629364cd4e8" />
+    <img alt="Ancera102 - Гражданская Оборона и Безопасность" src="https://github.com/user-attachments/assets/e696d4e4-e839-4e80-bb6f-1629364cd4e8" />
 </p>
 
 > *"Все пройдет. Развеется дым, угаснет пламя, пройдут и годы... а звезды останутся..."*
